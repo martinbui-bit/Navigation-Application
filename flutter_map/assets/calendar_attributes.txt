@@ -1,0 +1,6 @@
+service_id,service_description
+1,"Weekdays"
+2,"Saturday"
+3,"Sunday"
+4,"Tuesday, Wednesday, Thursday, Friday"
+5,"Monday"
